@@ -60,6 +60,28 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🖼️ Image-Based Fiber Tracking</h3>
+      <a href="https://github.com/jishnu6999/fiber-tracking">
+        <img src="https://github.com/jishnu6999/fiber-tracking/blob/main/screenshots/fiber.png" alt="Fiber Tracking" width="100%" />
+      </a>
+      <p align="center">
+        <b>Python • SAM • OpenCV • NumPy</b><br/>
+        Automated tendon segmentation using Meta's Segment Anything Model for medical image analysis.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎙️ Speech Command Recognition</h3>
+      <a href="https://github.com/jishnu6999/speech-recognition">
+        <img src="https://github.com/jishnu6999/speech-recognition/blob/main/screenshots/speech.png" alt="Speech Recognition" width="100%" />
+      </a>
+      <p align="center">
+        <b>Python • CNN • Adversarial Testing</b><br/>
+        Built a robust speech recognition model and tested against adversarial attacks for improved reliability.
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
