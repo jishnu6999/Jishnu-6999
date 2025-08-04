@@ -3,7 +3,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  📍 <strong>Moscow, Idaho, USA</strong>  
+  📍 <strong>Denver, Colorado, USA</strong>  
 </p>
 
 <p align="center">
