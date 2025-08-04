@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20There!%20👋%20I'm%20Jishnuvardhan%20Karpuram&fontSize=30&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06FFCB,100:FF6A88&height=200&section=header&text=Hey%20There!%20👋%20I'm%20Jishnuvardhan%20Karpuram&fontSize=32&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55&descAlign=50" />
 
 <!-- Social Links -->
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jishnu6999&label=Profile+Views&color=blue" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=jishnu6999&label=Profile+Views&color=blueviolet" alt="Visitor Count" />
 </p>
 
 ---
